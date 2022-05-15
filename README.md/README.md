@@ -1,5 +1,5 @@
 #About Me
-## My firt website.
+## My first website.
 I used the arrow function and classList.toggle for switching pictures.
 
 ## Demo
